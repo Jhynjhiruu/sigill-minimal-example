@@ -1,0 +1,2 @@
+[build]
+target = "mips-ultra64-cpu.json"
